@@ -1,0 +1,4 @@
+Comandos
+
+git status = listar a pasta
+git add . = enviar o arquivo
