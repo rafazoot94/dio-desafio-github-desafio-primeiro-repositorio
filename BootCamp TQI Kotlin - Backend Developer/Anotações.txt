@@ -1,0 +1,4 @@
+Comandos novos utilizados na aula
+- git status
+- git add .
+- git commit
